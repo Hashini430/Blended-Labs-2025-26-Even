@@ -1,12 +1,6 @@
 # Lab 6 – Scale and Load Balance Your Architecture
 
-## Author
 
-
-* **Name**: Ayshwariya J
-* **Register Number**: 2122224230030
-* **Date of Submission**: 17.03.2026
----
 
 ## Title
 
